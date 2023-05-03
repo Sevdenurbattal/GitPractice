@@ -1,6 +1,8 @@
 public class newCode {
     public static void main(String[] args) {
         System.out.println("coding is not easy but fun once you learn");
+
+        System.out.println("DONT DOUBT YOURSELF");
     }
 
 
